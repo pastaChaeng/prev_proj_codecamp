@@ -1,4 +1,4 @@
-# Previous Projects in CodeCamp
+# Previous Projects in CodeCamp (Responsive Web Design)
 This repository is an ode to my ongoing development and firm commitment in mastering the practice of responsive web design.
 Here you will find a collection of small-scale projects that have been attentively developed to improve my skills in designing intuitive and visual user interfaces.
 ps. ongoing
